@@ -1,0 +1,11 @@
+D:\Git Repo\Pankaj\travel-engine\server\anansi\WebServer\bin\Debug\netcoreapp1.1\WebServer.deps.json
+D:\Git Repo\Pankaj\travel-engine\server\anansi\WebServer\bin\Debug\netcoreapp1.1\WebServer.runtimeconfig.json
+D:\Git Repo\Pankaj\travel-engine\server\anansi\WebServer\bin\Debug\netcoreapp1.1\WebServer.runtimeconfig.dev.json
+D:\Git Repo\Pankaj\travel-engine\server\anansi\WebServer\bin\Debug\netcoreapp1.1\WebServer.dll
+D:\Git Repo\Pankaj\travel-engine\server\anansi\WebServer\bin\Debug\netcoreapp1.1\WebServer.pdb
+D:\Git Repo\Pankaj\travel-engine\server\anansi\WebServer\bin\Debug\netcoreapp1.1\WebServer.Core.dll
+D:\Git Repo\Pankaj\travel-engine\server\anansi\WebServer\bin\Debug\netcoreapp1.1\WebServer.Core.pdb
+D:\Git Repo\Pankaj\travel-engine\server\anansi\WebServer\obj\Debug\netcoreapp1.1\WebServer.csprojResolveAssemblyReference.cache
+D:\Git Repo\Pankaj\travel-engine\server\anansi\WebServer\obj\Debug\netcoreapp1.1\WebServer.AssemblyInfo.cs
+D:\Git Repo\Pankaj\travel-engine\server\anansi\WebServer\obj\Debug\netcoreapp1.1\WebServer.dll
+D:\Git Repo\Pankaj\travel-engine\server\anansi\WebServer\obj\Debug\netcoreapp1.1\WebServer.pdb
